@@ -1,7 +1,12 @@
-# Python编程：从入门到实践
-# 第6章 字典
-# 6.2
-"""favorite_languages = {
+"""
+Python编程：从入门到实践
+第6章 字典
+
+6.2
+"""
+
+
+favorite_languages = {
     'jen': 'python',
     'sarah': 'c',
     'edward': 'ruby',
@@ -12,7 +17,7 @@ language = favorite_languages['sarah'].title()
 print(f"Sarah's favorite language is {language}.")
 
 for language in set(favorite_languages.values()):
-    print(language.title())"""
+    print(language.title())
 
 favorite_languages = {
     'jen': ['python', 'ruby'],

@@ -1,6 +1,10 @@
-# Python编程：从入门到实践
-# 第5章 if语句
-# 5.2
+"""
+Python编程：从入门到实践
+第5章 if语句
+
+5.2
+"""
+
 requested_topping = 'mushrooms'
 if requested_topping != 'anchovies':
     print("Hold the anchovies!")

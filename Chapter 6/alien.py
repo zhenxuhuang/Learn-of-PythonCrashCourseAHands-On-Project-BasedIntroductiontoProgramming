@@ -1,6 +1,10 @@
-# Python编程：从入门到实践
-# 第6章 字典
-# 6.1
+"""
+Python编程：从入门到实践
+第6章 字典
+
+6.1
+"""
+
 alien_0 = {'color': 'green', 'points': 5}
 
 print(alien_0['color'])

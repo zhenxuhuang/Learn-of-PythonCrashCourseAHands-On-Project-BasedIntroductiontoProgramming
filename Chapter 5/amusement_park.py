@@ -1,6 +1,10 @@
-# Python编程：从入门到实践
-# 第5章 if语句
-# 5.3
+"""
+Python编程：从入门到实践
+第5章 if语句
+
+5.3
+"""
+
 age = 12
 if age < 4:
     print("Your admission cost is $0.")

@@ -1,7 +1,10 @@
-# Python编程：从入门到实践
-# 第3章 列表简介
+"""
+Python编程：从入门到实践
+第3章 列表简介
 
-# 3.1
+3.1
+"""
+
 bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicycles)
 
